@@ -7,6 +7,7 @@ ana625_hw1_csv=read.csv('file:///C:/Users/arace/OneDrive/Documents/ANA625/ana625
 
 ```{r}
 library(moments)
+# Hi araceli , this is lohith, I bugged into your home work file and written this command 
 ```
 
 ```{r setup, include=FALSE}
